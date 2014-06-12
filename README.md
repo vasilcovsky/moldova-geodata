@@ -1,7 +1,7 @@
 moldova-geodata
 ===============
 
-GPS coordinates mapped to Moldova's zip codes in CSV format.
+GPS coordinates in CSV format mapped to Moldova's zip codes & cities.
 
 Format: 
   * zip code
