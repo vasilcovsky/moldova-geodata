@@ -9,8 +9,9 @@ Format:
   * latitude
   * longitude
 
-How to use
+Bonus
 ===============
+The following code returns distance in km for 2 GPS points: 
 
 ```
 function distance(point1, point2) {
@@ -31,8 +32,5 @@ function distance(point1, point2) {
 var chisinau = [47.00560, 28.85750];
 var cahul = [45.90750, 28.19444];
 var km = distance(chisinau, cahul);
-console.log('Distance: ' + km + ' km.'); 
-
-// Output
-// Distance: 132 km 
+console.log('Distance: ' + km + ' km.');  // Distance: 132 km 
 ```
